@@ -188,7 +188,9 @@ section{
     text-align:center;
     color:#94a3b8;
 }
-
+.contact-form h2{
+    margin-top:45px;
+}
 .form-group {
     padding: 2px;
 }
